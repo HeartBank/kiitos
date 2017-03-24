@@ -1,0 +1,27 @@
+{
+  "name": "kiitos",
+  "version": "0.0.1",
+  "description": "HeartBank Kiitos Library",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HeartBank/kiitos.git"
+  },
+  "keywords": [
+    "heartbank",
+    "kiitos",
+    "library",
+    "kindness",
+    "open",
+    "data"
+  ],
+  "author": "Thon Ly",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HeartBank/kiitos/issues"
+  },
+  "homepage": "https://github.com/HeartBank/kiitos#readme"
+}
