@@ -1,7 +1,0 @@
-{
-  "name": "kiitos",
-  "short_name": "kiitos",
-  "description": "HeartBank Kiitos",
-  "start_url": "/",
-  "display": "standalone"
-}
